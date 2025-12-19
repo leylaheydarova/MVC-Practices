@@ -1,0 +1,126 @@
+/* General */
+body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background: linear-gradient(135deg, #e6e9f0, #eef1f5);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Container */
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Form box */
+.form-box {
+    background: #fff;
+    width: 500px;
+    padding: 30px 35px;
+    border-radius: 14px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Title */
+.form-text h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+/* Mandatory text */
+.form h3 {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Labels */
+form label {
+    display: block;
+    margin-bottom: 6px;
+    margin-top: 14px;
+    font-weight: 600;
+    color: #e63946;
+}
+
+#blackitems {
+    color: #000;
+}
+
+/* Inputs & Select */
+form input[type="text"],
+form input[type="email"],
+form select {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+form input::placeholder {
+    color: #aaa;
+}
+
+form input:focus,
+form select:focus {
+    outline: none;
+    border-color: #7b5cff;
+    box-shadow: 0 0 0 2px rgba(123, 92, 255, 0.2);
+}
+
+/* Checkbox section */
+.checkbox {
+    margin-top: 10px;
+}
+
+.checkbox-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+/* Radio buttons */
+.termsandconditions {
+    margin-top: 10px;
+}
+
+.termsandconditions div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+    font-size: 15px;
+}
+
+/* Button */
+.button {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.button a {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 0;
+    background: linear-gradient(135deg, #7b5cff, #9b7cff);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.button a:hover {
+    background: linear-gradient(135deg, #6a4df5, #8a6bf7);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(123, 92, 255, 0.4);
+}

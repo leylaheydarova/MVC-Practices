@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(224, 223, 223);
+    font-family: "Roboto", sans-serif;
+}
+
+.bookingsuccessful-box{
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+}
+
+.bookingsuccessful-top{
+    max-width: 40%;
+    margin: 0 auto;
+    height: 300px;
+}
+
+.successimage{
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.successimage img{
+    height: 90px;
+}
+
+.bookingtext{
+    padding: 10px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-shadow: 0 0 5px gray;
+}
+
+.bookingtext h1{
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600px;
+}
+
+.bookingtext p{
+    padding: 20px 0;
+}
+
+.btn a{
+    text-decoration: none;
+    color: rgb(45, 130, 187);
+    text-shadow: 0 0 2px gray;
+}

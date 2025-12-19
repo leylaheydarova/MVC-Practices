@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+    <link rel="stylesheet" href="./assets/css/resetcss.css">
+    <link rel="stylesheet" href="assets/css/container.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-box">
+            <div class="form-text">
+                <h1>Travel reservation form</h1>
+            </div>
+            <div class="form">
+                <h3>* denotes mandotory</h3>
+                <form action="">
+                    <label for="username">Full Name*</label>
+                    <input id="username" name="username" type="text" placeholder="FirstName LastName">
+                    <label for="useremail">Email Address*</label>
+                    <input id="useremail" name="emailaddress" type="email" placeholder="EMAIL_ADDRESS">
+                    <label for="tourpackage">Select Tour Package*</label>
+                    <select id="tourpackage" name="tourpackage">
+                        <option value="Goa">Goa</option>
+                        <option value="Moscow">Moscow</option>
+                        <option value="Abu-Dabi">Abu-Dabi</option>
+                        <option value="Dubai">Dubai</option>
+                        <option value="Dublin">Dublin</option>
+                    </select>
+                    <label id="blackitems">What would you want to avail?*</label>
+                    <div class="checkbox">
+                        <div class="checkbox-row">
+                            <!-- <label for="boarding">Boarding</label> -->
+                            Boarding<input type="checkbox" name="boarding" id="boarding">
+                        </div>
+                        <div class="checkbox-row">
+                            <!-- <label for="fooding">Fooding</label> -->
+                            Fooding <input type="checkbox" name="fooding" id="fooding">
+                        </div>
+                        <div class="checkbox-row">
+                            <!-- <label for="sightseeing">Sightseeing</label> -->
+                            Sightseeing<input type="checkbox" name="sightseeing" id="sightseeing">
+                        </div>
+                    </div>
+                    <label id="blackitems" for="discount">Discount Coupon Code:</label>
+                    <input id="discount" name="discountCoupon" type="text">
+                    <label for="">Terms and conditions*</label>
+                    <div id="blackitems" class="termsandconditions">
+                        <div><label for="agree">I agree</label>
+                            <input type="radio" name="terms" id="agree">
+                        </div>
+                        <div><label for="disagree">I disagree</label>
+                            <input type="radio" name="terms" id="disagree">
+                        </div>
+                    </div>
+                    <div class="button">
+                        <a href="./success.html">Complete reservation</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
