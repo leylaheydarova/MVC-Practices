@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Product\\Create.cshtml",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T10:30:43.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T10:30:43.948Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "Furni.App\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T04:34:12.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:34:12.325Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T10:21:25.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T10:21:25.787Z"
             },
             {
               "$type": "Document",
@@ -111,20 +108,20 @@
               "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Furni.App\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-23T10:19:59.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Furni.App\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAxwBkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T10:17:28.119Z",
               "EditorCaption": ""
@@ -139,8 +136,7 @@
               "RelativeToolTip": "Furni.App\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T05:22:58.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:22:58.865Z"
             },
             {
               "$type": "Document",
@@ -152,8 +148,7 @@
               "RelativeToolTip": "Furni.App\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T04:51:17.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:51:17.133Z"
             },
             {
               "$type": "Document",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "Furni.App\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-23T04:19:26.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T04:19:26.53Z"
             },
             {
               "$type": "Document",

@@ -23,7 +23,7 @@
                 <td>@product.UpdateDate</td>
                 <td>
                     <a class="btn btn-warning" href="#"><i class="fas fa-edit"></i></a>
-                    <form asp-area="admin" asp-controller="product" asp-action="delete" method="post">
+                    <form asp-area="admin" asp-controller="product" asp-action="delete" method="post" asp-route-id ="@product.Id">
                         <button class="btn btn-danger" type="submit"><i class="fas fa-trash-alt"></i></button>
                     </form>
                 </td>
