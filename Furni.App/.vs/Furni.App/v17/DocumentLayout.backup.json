@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\migrations\\20251222052744_produt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\migrations\\20251222052744_produt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|d:\\programming\\teaching\\codeacademy\\practices\\mvc\\furni.app\\furni.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F98962-96A5-4A71-AA13-30785074EF17}|Furni.App\\Furni.App.csproj|solutionrelative:furni.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Furni.App\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Furni.App\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-23T04:19:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:23:29.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Furni.App\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:22:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Program.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Program.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Program.cs",
+              "RelativeToolTip": "Furni.App\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:51:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Furni.App\\appsettings.json",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\appsettings.json",
+              "RelativeToolTip": "Furni.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T04:49:18.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FurniDbContext.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Contexts\\FurniDbContext.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Contexts\\FurniDbContext.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Contexts\\FurniDbContext.cs",
+              "RelativeToolTip": "Furni.App\\Contexts\\FurniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:42:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Models\\Product.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Models\\Product.cs",
+              "RelativeToolTip": "Furni.App\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:34:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251222052744_produt.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Migrations\\20251222052744_produt.cs",
+              "RelativeDocumentMoniker": "Furni.App\\Migrations\\20251222052744_produt.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Migrations\\20251222052744_produt.cs",
+              "RelativeToolTip": "Furni.App\\Migrations\\20251222052744_produt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:27:45.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Furni.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeAcademy\\Practices\\MVC\\Furni.App\\Furni.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Furni.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:23:53.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
