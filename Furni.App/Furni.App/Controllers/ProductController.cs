@@ -12,8 +12,6 @@ namespace Furni.App.Controllers
             _context = context;
         }
 
-
-
         public async Task<IActionResult> Index()
         {
             return View(_context.Products.AsQueryable().ToList());
