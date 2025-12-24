@@ -1,4 +1,7 @@
 ﻿@model List<Product>
+<form asp-controller="Product" asp-action="Create" method="post">
+    <button type="submit" class="btn btn-success">Create</button>
+</form>
 <table class="table">
     <thead>
         <tr>
@@ -8,6 +11,7 @@
             <th scope="col">Image</th>
             <th scope="col">CreatedDate</th>
             <th scope="col">UpdatedDate</th>
+            <th scope="col">Activeness</th>
             <th scope="col">Actions</th>
         </tr>
     </thead>
@@ -22,13 +26,35 @@
                 <td>@product.CreatedDate</td>
                 <td>@product.UpdateDate</td>
                 <td>
-                    <a class="btn btn-warning" href="#"><i class="fas fa-edit"></i></a>
+                    @if (product.IsDeleted)
+                    {
+                        <span class="badge bg-danger">Deleted</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Active</span>
+                    }
+                </td>
+                <td>
+                    <a asp-controller="Product" asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning">Edit</a>
                     <form asp-area="admin" asp-controller="product" asp-action="delete" method="post" asp-route-id ="@product.Id">
-                        <button class="btn btn-danger" type="submit"><i class="fas fa-trash-alt"></i></button>
+                        <button class="btn btn-danger" type="submit">Remove</button>
+                    </form>
+                    <form asp-area="admin"
+                          asp-controller="Product"
+                          asp-action="Toggle"
+                          method="post"
+                          asp-route-id="@product.Id"
+                          class="d-inline">
+                        <button type="submit"
+                                class="btn btn-sm @(product.IsDeleted ? "btn-success" : "btn-danger")"
+                                onclick="return confirm('Are you sure you want to @(product.IsDeleted ? "recover" : "delete") this product?');"
+                                title="@(product.IsDeleted ? "Recover" : "Delete")">
+                            <i class="fas @(product.IsDeleted ? "fa-undo" : "fa-trash-alt")"></i>
+                        </button>
                     </form>
                 </td>
             </tr>
         }
-
     </tbody>
 </table>

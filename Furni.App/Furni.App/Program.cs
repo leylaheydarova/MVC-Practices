@@ -35,8 +35,10 @@ app.UseAuthorization();
 //        name: "default",
 //        pattern: "{controller=Home}/{action=Index}/{id?}");
 //});
-app.MapControllerRoute(name: "Default",
-    pattern: "{ares:exists}/{controller=Dashboard}/{action=Index}/{Id}?");
-app.UseMvcWithDefaultRoute();
+app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Product}/{action=Index}/{id?}");
 
+app.MapControllerRoute(name: "Default",
+    pattern: "/{controller=Home}/{action=Index}/{Id?}");
 app.Run();

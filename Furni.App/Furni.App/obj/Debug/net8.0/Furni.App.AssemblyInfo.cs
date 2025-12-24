@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Furni.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35d5923c8ebfea5ba9d97c5881556e970b52d87d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba90fe68bc882a6e252f131751b7478d3b5edef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Furni.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Furni.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
